@@ -44,8 +44,7 @@ body {
 
 .main_header__div {
     height: calc(100vh - 40vh);
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0)), url('https://www.bing.com/images/search?view=detailV2&ccid=UDJbLkdT&id=BF9517FC296C495309069898F771CECF9D56BFA4&thid=OIF.jEvApFnDVStr%2f%2bhy5Nzs5w&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2fFc47lEaHx14%2fmaxresdefault.jpg&exph=720&expw=1280&q=busted+minds&simid=154252180116&FORM=IRPRST&ck=8C4BC0A459C3552B6BFFE872E4DCECE7&selectedIndex=7');
-    background-size: var(--bg-size);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0)), url('https://github.com/yasar-arafath/busted-blog.github.io/blob/main/images/rrrrrrrr.png');
 }
 
 .main_heading {
