@@ -44,7 +44,7 @@ body {
 
 .main_header__div {
     height: calc(100vh - 40vh);
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0)), url('https://github.com/yasar-arafath/busted-blog.github.io/blob/main/images/rrrrrrrr.png');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0)), url('https://miro.medium.com/max/15998/1*LCh7nglznCWia9SWqEvbSg.jpeg');
 }
 
 .main_heading {
