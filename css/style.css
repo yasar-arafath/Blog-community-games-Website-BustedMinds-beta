@@ -268,39 +268,7 @@ figure img:hover,
 
 /************************************ right side div ************************************/
 
-/*about me div*/
-.about_me_div {
-    width: auto;
-    height: 40rem;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
-    flex-direction: column;
-    background-image: linear-gradient(to bottom, transparent 50%, rgba(208, 206, 207, 0.8) 50%), url('../images/thapa.jpg');
-    background-size: var(--bg-size);
-}
 
-.about_me_div p:first-child {
-    padding-bottom: 0.2rem;
-    font-size: 2.2rem;
-}
-
-.about_me_div p {
-    font-size: 1.8rem;
-    padding-bottom: 1rem;
-    color: #000;
-}
-
-.right_div__title {
-    background: #d0cecf;
-    /*background: #adaea9;*/
-    color: #000;
-}
-
-.right_div__title h2 {
-    font-size: 2.5rem;
-    padding-left: 2rem;
-}
 
 /*popular post*/
 .right_div_post {
