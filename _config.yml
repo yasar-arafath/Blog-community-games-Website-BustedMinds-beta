@@ -10,3 +10,5 @@ plugins:
 
   - jekyll-sitemap
 
+
+theme: jekyll-theme-time-machine
