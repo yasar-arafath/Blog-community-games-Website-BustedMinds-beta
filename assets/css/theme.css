@@ -321,11 +321,12 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(https://i.imgur.com/icxRhjX.jpeg);
+	
+    background-image:url(../images/bg.jpg);
     background-size:cover;
-    padding: 9rem 0;
-    margin-top:-87px;
-    margin-bottom:3.5rem;
+    padding: 5rem 0;
+    margin-top:-67px;
+    margin-bottom:2.5rem;
     z-index: 1;
     position: relative;
 }
