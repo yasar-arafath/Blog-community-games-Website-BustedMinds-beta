@@ -12,6 +12,6 @@ A community, blog, games Website created for the BUSTED MINDS FIRM. It's an idea
 
 ## Links
 
-*   [Busted Minds Beta Website](https://yasar-arafath.github.io/A-blog-community-games-Website-BustedMinds-beta/)
+*   [Busted Minds Beta Website](https://yasar-arafath.github.io/Blog-community-games-Website-BustedMinds-beta)
 *   [Busted Minds Official Website](https://busted-minds.github.io)
 *   [Github](https://github.com/busted-minds/busted-minds.github.io)
